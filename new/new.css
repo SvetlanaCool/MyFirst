@@ -1,0 +1,35 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:0;
+    padding: 0;
+}
+
+/* HEADER */
+
+.header{
+    width:100%;
+    color: white;
+    padding: 20px;
+    background: #151c39e8;
+  box-sizing: border-box;
+}
+
+.menu-item{
+    list-style: none;
+}
+
+.menu-link{
+    color: white;
+    text-decoration: none;
+}
+
+.container{
+    max-width: 1140px;  
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.menu-link{
+    text-transform: uppercase;
+    font-weight: bold;
+}
