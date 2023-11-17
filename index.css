@@ -12,14 +12,6 @@
 
 /* HEADER */
 
-.header{
-    width:100%;
-    color: white;
-    padding: 20px;
-    background: #151c39e8;
-	box-sizing: border-box;
-}
-
 .menu-item{
     list-style: none;
 }
@@ -107,6 +99,15 @@
     color: white;
 }
 
+.logo-img {
+    text-align: left;
+    padding-right: 2600px;
+}
 
+.wrapper {
+    background: url(bg.png);
+}
 
-
+.logo-title {
+    color: white;
+}
