@@ -1,1 +1,21 @@
+.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    font-weight: bold;
+    text-align: center;
+}
 
+.wrapper > * {
+    display: flex;
+    padding: 10px;
+    flex: 1 100%;
+}
+
+.footer {
+    background: rgb(7, 0, 27);
+}
+
+.main {
+    text-align: left;
+    background: rgb(208, 209, 199);
+}
